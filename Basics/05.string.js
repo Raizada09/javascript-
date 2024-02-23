@@ -17,8 +17,11 @@ const gameName = new String('nirbhay-kumar')
 //console.log(gameName.charAt(4));
 
 const newString = gameName.substring(0,4)
-console.log(newString);
+//console.log(newString);
 
 const anotherString = gameName.slice(0,4)
-console.log(anotherString);
+//console.log(anotherString);
+
+const newStringone = 'nirbhaykumarraizada'
+console.log
 
